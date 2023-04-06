@@ -6,7 +6,7 @@
 - 🌱 I’m also currently learning Solidity with the goal of joining the auditing space 
 - 🌱 Also learning NextJs
 - 💬 Ask me about HTML, CSS, Javascript, Bootstrap, TailwindCSS, Accessibility, Software Dev...__
-- 📫 How to reach me: <a href="https://twitter.com/unkuseni" alt="twitter-link">Twitter</a>, <a href="https://www.discord.com/664432986233634857">Discord</a>
+- 📫 How to reach me: <a href="https://twitter.com/unkuseni" alt="twitter-link">Twitter</a>, <a href="https://www.discordapp.com/users/664432986233634857">Discord</a>
 - ⚡ Fun fact: Having seen Breaking bad too many times, I pursued a degree in Chemistry
 
 <hr/>
