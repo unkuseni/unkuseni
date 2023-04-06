@@ -37,11 +37,11 @@
         <td>
             <a href=""><img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg" width="70" height="50"/></a>
             <a href=""><img src="https://www.svgrepo.com/show/378786/chrome-devtools.svg" width="40" height="40"/></a>
-            <a href=""><img src="https://www.svgrepo.com/show/303392/jquery-1-logo.svg" width="5\60" height="40"/></a>
-            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/vagrant/vagrant-original.svg" width="40" height="40"/></a>
-            <a href=""><img src="https://www.vectorlogo.zone/logos/chefio/chefio-icon.svg" width="40" height="40"/></a>
-            <a href=""><img src="https://www.vectorlogo.zone/logos/jfrog/jfrog-icon.svg" width="40" height="40"/></a>
-            <a href=""><img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://www.svgrepo.com/show/303392/jquery-1-logo.svg" width="60" height="40"/></a>
+            <a href=""><img src="" width="40" height="40"/></a>
+            <a href=""><img src="" width="40" height="40"/></a>
+            <a href=""><img src="" width="40" height="40"/></a>
+            <a href=""><img src="" width="40" height="40"/></a>
         </td>
     </tr>
 </div>
