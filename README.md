@@ -3,7 +3,14 @@
 ## Aspiring Web3 Developer
 
 - 🔭 I’m currently working on: Frontend development
-- 🌱 I’m currently learning Solidity with the goal of joining the Auditing space
+- 🌱 I’m currently learning Solidity with the goal of joining the auditing space 
+- 🌱 Also learning NextJs
+- 💬 Ask me about HTML, CSS, Javascript, Bootstrap, TailwindCSS, Accessibility, Software Dev...__
+- ⚡ Fun fact: Having seen Breaking bad too many times, I pursued a degree in Chemistry
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 <!--
 **unkuseni/unkuseni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
