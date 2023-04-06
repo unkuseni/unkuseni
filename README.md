@@ -33,13 +33,18 @@
 
   ### 🛠️:   Language and Tools :
   <div id="skills" align="center">
-            <a href=""><img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg" width="70" height="50"/></a>
-            <a href=""><img src="https://www.svgrepo.com/show/378786/chrome-devtools.svg" width="40" height="40"/></a>
-            <a href=""><img src="https://www.svgrepo.com/show/303392/jquery-1-logo.svg" width="60" height="40"/></a>
-            <a href=""><img src="https://www.svgrepo.com/show/452210/git.svg" width="50" height="50"/></a>
-            <a href=""><img src="https://www.svgrepo.com/show/374061/sass.svg" width="50" height="50"/></a>
-            <a href=""><img src="" width="40" height="40"/></a>
-            <a href=""><img src="" width="40" height="40"/></a>
+       <a href=""><img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg" width="70" height="50"/></a>
+       <a href=""><img src="https://www.svgrepo.com/show/378786/chrome-devtools.svg" width="40" height="40"/></a>
+       <a href=""><img src="https://www.svgrepo.com/show/303392/jquery-1-logo.svg" width="60" height="40"/></a>
+       <a href=""><img src="https://www.svgrepo.com/show/452210/git.svg" width="50" height="50"/></a>
+       <a href=""><img src="https://www.svgrepo.com/show/374061/sass.svg" width="50" height="50"/></a>
+       <a href=""><img src="https://www.svgrepo.com/show/452228/html-5.svg" width="40" height="40"/></a>
+       <a href=""><img src="https://www.svgrepo.com/show/429523/css-file-web.svg" width="40" height="40"/></a>
+       <a href=""><img src="https://www.svgrepo.com/show/353925/javascript.svg" width="40" height="40"/></a>
+   <a href=""><img src="https://www.svgrepo.com/show/452077/npm.svg" width="40" height="40"/></a>
+   <a href=""><img src="" width="40" height="40"/></a>
+   <a href=""><img src="" width="40" height="40"/></a>
+  
 </div>
 <!--
 **unkuseni/unkuseni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
