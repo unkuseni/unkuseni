@@ -8,10 +8,10 @@
 - 💬 Ask me about HTML, CSS, Javascript, Bootstrap, TailwindCSS, Accessibility, Software Dev...__
 - ⚡ Fun fact: Having seen Breaking bad too many times, I pursued a degree in Chemistry
 
-
+<br/>
 
 <div id="header" align="center">
-  <img src="https://media.tenor.com/P1jvpBfPfBUAAAAS/scaler-create-impact.gif" width="100"/>
+  <img src="https://media.giphy.com/media/QHE5gWI0QjqF2/giphy.gif" width="100"/>
 </div>
 <!--
 **unkuseni/unkuseni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
