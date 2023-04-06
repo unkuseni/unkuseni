@@ -12,7 +12,7 @@
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/QHE5gWI0QjqF2/giphy.gif" width="100"/>
-</div>
+
 <div id="badges">
   <a href="www.linkedin.com/in/unkuseni">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -23,6 +23,10 @@
   <a href="https://twitter.com/unkuseni">
     <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/unkuseni?style=social">
   </a>
+   <a href="https://github.com/unkuseni">
+   <img src="https://komarev.com/ghpvc/?username=unkuseni&style=flat-square&color=blue" alt=""/>
+  </a>
+</div>
 </div>
 <!--
 **unkuseni/unkuseni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
