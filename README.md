@@ -1,5 +1,9 @@
-### Hi there 👋
+# Hello there 👋, I'm Olaseni But
 
+## Aspiring Web3 Developer
+
+- 🔭 I’m currently working on: Frontend development
+- 🌱 I’m currently learning Solidity with the goal of joining the Auditing space
 <!--
 **unkuseni/unkuseni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
