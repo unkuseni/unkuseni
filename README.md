@@ -46,7 +46,7 @@
    <a href=""><img src="https://www.svgrepo.com/show/439039/webpack.svg" width="40" height="40"/></a>
   <a href=""><img src="https://www.svgrepo.com/show/374167/vite.svg" width="40" height="40"/></a>
   <a href=""><img src="https://www.svgrepo.com/show/378490/bootstrap-fill.svg" width="40" height="40"/></a>
-  <a href=""><img src="" width="40" height="40"/></a>
+  <a href=""><img src="https://www.svgrepo.com/show/303600/typescript-logo.svg" width="40" height="40"/></a>
 </div>
 
 <hr/>
