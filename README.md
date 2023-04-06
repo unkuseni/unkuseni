@@ -3,7 +3,7 @@
 ## Aspiring Web3 Developer
 
 - 🔭 I’m currently working on: Frontend development
-- 🌱 I’m currently learning Solidity with the goal of joining the auditing space 
+- 🌱 I’m also currently learning Solidity with the goal of joining the auditing space 
 - 🌱 Also learning NextJs
 - 💬 Ask me about HTML, CSS, Javascript, Bootstrap, TailwindCSS, Accessibility, Software Dev...__
 - ⚡ Fun fact: Having seen Breaking bad too many times, I pursued a degree in Chemistry
@@ -12,6 +12,17 @@
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/QHE5gWI0QjqF2/giphy.gif" width="100"/>
+</div>
+<div id="badges">
+  <a href="www.linkedin.com/in/unkuseni">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.reddit.com/user/WraithHunterr">
+    <img alt="Reddit-Badge" src="https://img.shields.io/reddit/user-karma/link/wraithhunterr?color=red&label=Reddit&style=for-the-badge">
+  </a>
+  <a href="https://twitter.com/unkuseni">
+    <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/unkuseni?style=social">
+  </a>
 </div>
 <!--
 **unkuseni/unkuseni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
