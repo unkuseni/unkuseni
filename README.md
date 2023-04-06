@@ -28,22 +28,16 @@
   </a>
 </div>
 </div>
-<hr/>
+---
 <div id="skills" align="center">
-  ### Tools  and skillset
-  <table>
-    <tr>
-        <td>Tools</td>
-        <td>
+ 🛠️ ### Tools  and skillset
             <a href=""><img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg" width="70" height="50"/></a>
             <a href=""><img src="https://www.svgrepo.com/show/378786/chrome-devtools.svg" width="40" height="40"/></a>
             <a href=""><img src="https://www.svgrepo.com/show/303392/jquery-1-logo.svg" width="60" height="40"/></a>
+            <a href=""><img src="https://www.svgrepo.com/show/452210/git.svg" width="50" height="50"/></a>
+            <a href=""><img src="https://www.svgrepo.com/show/374061/sass.svg" width="50" height="50"/></a>
             <a href=""><img src="" width="40" height="40"/></a>
             <a href=""><img src="" width="40" height="40"/></a>
-            <a href=""><img src="" width="40" height="40"/></a>
-            <a href=""><img src="" width="40" height="40"/></a>
-        </td>
-    </tr>
 </div>
 <!--
 **unkuseni/unkuseni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
