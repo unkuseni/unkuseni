@@ -47,6 +47,11 @@
   <a href=""><img src="https://www.svgrepo.com/show/374167/vite.svg" width="40" height="40"/></a>
   <a href=""><img src="" width="40" height="40"/></a>
 </div>
+
+<hr/>
+
+### 🔥 My Stats:
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=unkuseni&theme=dark&background=000000)](https://git.io/streak-stats)
 <!--
 **unkuseni/unkuseni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
