@@ -1,7 +1,7 @@
-# Hello there 👋, I'm Olaseni But
+# Hello there 👋, I'm Olaseni 
+ A Frontend software engineer who is passionate about learning, building and solving problems that make everyday life a little easier.
 
-## Aspiring Web3 Developer
-
+## Aspiring Web3 developer
 - 🔭 I’m currently working on: Frontend development
 - 🌱 I’m also currently learning Solidity with the goal of joining the auditing space 
 - 🌱 Also learning NextJs
