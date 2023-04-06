@@ -32,7 +32,7 @@
 <hr/>
 
 <div id="skills" align="center">
- 🛠️: ###Language and Tools:
+ ### 🛠️:   Language and Tools :
             <a href=""><img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg" width="70" height="50"/></a>
             <a href=""><img src="https://www.svgrepo.com/show/378786/chrome-devtools.svg" width="40" height="40"/></a>
             <a href=""><img src="https://www.svgrepo.com/show/303392/jquery-1-logo.svg" width="60" height="40"/></a>
