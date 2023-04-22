@@ -59,14 +59,14 @@
         <td>
             <img src="https://github-profile-trophy.vercel.app/?username=unkuseni&row=3&column=4&no-bg=true"/>
         </td>
-      
+        <td>
+            <img src="https://github-readme-streak-stats.herokuapp.com/?user=unkuseni"/>
+        </td> 
     </tr>
     <tr>
         <td>
             <img src="https://github-readme-stats.vercel.app/api?username=unkuseni&count_private=true&show_icons=true&theme=tokyonight"/>
-     </td>
- </tr>
-   <tr>
+        </td>
         <td>
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unkuseni&langs_count=10&layout=compact"/>
         </td>
