@@ -1,5 +1,5 @@
 # Hello there 👋, I'm Olaseni 
- A Frontend software engineer who is passionate about learning, building and solving problems that make everyday life a little easier.
+ A software engineer who is passionate about learning, building and solving problems that make everyday life a little easier.
 
 ## Aspiring Web3 developer
 - 🔭 I’m currently working on: Frontend development
