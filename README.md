@@ -15,9 +15,6 @@
   <img src="https://media.giphy.com/media/QHE5gWI0QjqF2/giphy.gif" width="100"/>
 
 <div id="badges">
-  <a href="www.linkedin.com/in/unkuseni">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
   <a href="https://www.reddit.com/user/WraithHunterr">
     <img alt="Reddit-Badge" src="https://img.shields.io/reddit/user-karma/link/wraithhunterr?color=red&label=Reddit&style=for-the-badge">
   </a>
