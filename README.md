@@ -1,10 +1,9 @@
 # Hello there 👋, I'm Olaseni 
  A software engineer who is passionate about learning, building and solving problems that make everyday life a little easier.
 
-## Aspiring Web3 developer
-- 🔭 I’m currently working on: Frontend development
-- 🌱 I’m also currently learning Solidity with the goal of joining the auditing space 
-- 🌱 Also learning Svelte and Rust
+## Full stack Developer
+- 🔭 I’m currently working on: Backend and Financial tools
+- 🌱 Also learning and building with Rust
 - 💬 Ask me about HTML, CSS, Javascript, Bootstrap, TailwindCSS, Accessibility, Software Dev...__
 - 📫 How to reach me: <a href="https://twitter.com/unkuseni" alt="twitter-link">Twitter</a>, <a href="https://www.discordapp.com/users/664432986233634857">Discord</a>
 - ⚡ Fun fact: Having seen Breaking bad too many times, I pursued a degree in Chemistry
